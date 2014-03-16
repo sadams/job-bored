@@ -1,0 +1,21 @@
+{
+  "name": "job-bored",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "ejs": "*",
+    "lodash": "^2.4.1",
+    "mongoose": "^3.8.8"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.2",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-jshint": "^0.8.0",
+    "grunt-contrib-nodeunit": "^0.3.2",
+    "grunt-contrib-watch": "^0.5.3"
+  }
+}
